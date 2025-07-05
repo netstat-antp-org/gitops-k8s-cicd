@@ -1,0 +1,12 @@
+Apply complete! Resources: 41 added, 0 changed, 0 destroyed.
+
+Outputs:
+
+cluster_endpoint = "https://84964C22A4A81F3366AC8A6ACF76826C.gr7.us-east-1.eks.amazonaws.com"
+cluster_name = "multi-cloud-eks"
+public_subnet_ids = [
+  "subnet-0fb090e3c2d43e6f3",
+  "subnet-089272d0a7260d8b7",
+]
+vpc_id = "vpc-0ec8e008b1ee6630d"
+

@@ -22,6 +22,7 @@ RUN apt-get update && apt-get install -y \
 
 #Terraform alias
 RUN echo "alias tf='terraform'" >> /etc/bash.bashrc
+RUN echo "alias k8s='kubectl'" >> /etc/bash.bashrc
 
 # Install AWS CLI
 RUN curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip" \

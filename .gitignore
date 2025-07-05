@@ -9,5 +9,5 @@
 
 # Terraform working directory
 .terraform/
-.working/aws/.terraform/
+working/aws/.terraform/
 crash.log

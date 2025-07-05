@@ -1,3 +1,0 @@
-[submodule "multi-cloud-k8s-gitops"]
-	path = multi-cloud-k8s-gitops
-	url = https://github.com/netstat-antp-org/multi-cloud-k8s-gitops.git

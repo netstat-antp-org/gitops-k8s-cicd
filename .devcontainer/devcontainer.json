@@ -1,5 +1,5 @@
 {
-  "name": "Multi-Cloud K8s GitOps Lab",
+  "name": "Basic Codespace Build",
   "build": {
     "dockerfile": "Dockerfile",
     "context": ".."
